@@ -1,2 +1,4 @@
-# Change-the-window
-Change your window to your liking.
+# SnapSizer
+
+keynote：
+  Adjust windows simply, simply, and efficiently.
