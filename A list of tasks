@@ -3,6 +3,18 @@
     通过拖动窗口边缘或角落来调整窗口大小。
   (2)快捷键支持：
     根据设定好的快捷键调整至对应大小和位置，用于快速调整窗口大小或对齐。
+移动窗口到上半屏：       shift+win+up
+移动窗口到下半屏：       shift+win+down
+移动窗口到左半屏：       shift+win+left
+移动窗口到右半屏：       shift+win+right
+移动窗口到左上角(1/4屏)：shift+win+u
+移动窗口到右上角(1/4屏)：shift+win+i
+移动窗口到左下角(1/4屏)：shift+win+j
+移动窗口到右下角(1/4屏)：shift+win+k
+缩小窗口(每次缩小5%)：   shift+win+-
+放大窗口(每次放大5%)：   shift+win+=
+最大化窗口：             shift+win+enter
+恢复窗口：               shift+win+backspace
 2. 技术选型
   使用python来进行具体功能的实现，具体代码见技术文档
 3. 测试
